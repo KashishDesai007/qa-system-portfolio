@@ -1,0 +1,25 @@
+{
+  "overview": "A futuristic QA Engineer portfolio website styled as a Quality Assurance System Interface. Features dark glassmorphism UI, scanning animations, typing effects, an animated QA pipeline, and structured ATS-optimized content.",
+  "features": [
+    "System Checking loading screen animation",
+    "Hero with typing animation and neon glow effects",
+    "Skills displayed as test coverage progress bars",
+    "Experience timeline styled as system logs",
+    "Projects styled as test case reports with glassmorphism",
+    "Animated QA workflow pipeline",
+    "Bug counter with dynamic number animation",
+    "Fully responsive with smooth mobile animations",
+    "ATS-optimized with selectable text and semantic HTML"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "qa-engineer",
+    "futuristic",
+    "dark-theme",
+    "glassmorphism",
+    "animations",
+    "software-testing"
+  ],
+  "last_updated": "2026-04-14T17:30:33.885Z"
+}
